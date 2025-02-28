@@ -10,3 +10,4 @@ Data Structures and Algorithms: Strengthening my problem-solving skills to prepa
 Goals: I aim to contribute to open-source projects and collaborate with other developers. My ultimate goal is to land my first role as a software engineer and make a positive impact in the tech community.
 
 Connect with Me: Feel free to reach out if you want to collaborate on a project, share ideas, or just have a chat about tech!
+email @ morganouma4@gmail.com
