@@ -1,4 +1,4 @@
- an aspiring software engineer with a passion for building innovative solutions and a keen interest in continuous learning.
+My name is Morgan, an aspiring software engineer with a passion for building innovative solutions and a keen interest in continuous learning.
 
  About Me: I'm currently honing my skills in various programming languages and technologies, including JavaScript, Python, and React. I love tackling challenging problems and collaborating with others to create efficient and user-friendly applications.
 
